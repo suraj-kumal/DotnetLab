@@ -1,0 +1,14 @@
+C:\dotnetcollege\SurajLabWork\bin\Debug\net8.0\SurajLabWork.exe
+C:\dotnetcollege\SurajLabWork\bin\Debug\net8.0\SurajLabWork.deps.json
+C:\dotnetcollege\SurajLabWork\bin\Debug\net8.0\SurajLabWork.runtimeconfig.json
+C:\dotnetcollege\SurajLabWork\bin\Debug\net8.0\SurajLabWork.dll
+C:\dotnetcollege\SurajLabWork\bin\Debug\net8.0\SurajLabWork.pdb
+C:\dotnetcollege\SurajLabWork\obj\Debug\net8.0\SurajLabWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnetcollege\SurajLabWork\obj\Debug\net8.0\SurajLabWork.AssemblyInfoInputs.cache
+C:\dotnetcollege\SurajLabWork\obj\Debug\net8.0\SurajLabWork.AssemblyInfo.cs
+C:\dotnetcollege\SurajLabWork\obj\Debug\net8.0\SurajLabWork.csproj.CoreCompileInputs.cache
+C:\dotnetcollege\SurajLabWork\obj\Debug\net8.0\SurajLabWork.dll
+C:\dotnetcollege\SurajLabWork\obj\Debug\net8.0\refint\SurajLabWork.dll
+C:\dotnetcollege\SurajLabWork\obj\Debug\net8.0\SurajLabWork.pdb
+C:\dotnetcollege\SurajLabWork\obj\Debug\net8.0\SurajLabWork.genruntimeconfig.cache
+C:\dotnetcollege\SurajLabWork\obj\Debug\net8.0\ref\SurajLabWork.dll
