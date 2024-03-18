@@ -12,3 +12,4 @@ C:\dotnetcollege\SurajLabWork\obj\Debug\net8.0\refint\SurajLabWork.dll
 C:\dotnetcollege\SurajLabWork\obj\Debug\net8.0\SurajLabWork.pdb
 C:\dotnetcollege\SurajLabWork\obj\Debug\net8.0\SurajLabWork.genruntimeconfig.cache
 C:\dotnetcollege\SurajLabWork\obj\Debug\net8.0\ref\SurajLabWork.dll
+C:\dotnetcollege\SurajLabWork\obj\Debug\net8.0\SurajLabWork.sourcelink.json
