@@ -54,6 +54,7 @@ namespace SurajLabWork
     {
         public static void Main()
         {
+            MyClass X1 = new MyClass();
             MyClass myClass = new MyClass(3, 8.9);
             MyClass C1 = new MyClass(myClass);
             // Since the private constructor is not accessible outside the class,
